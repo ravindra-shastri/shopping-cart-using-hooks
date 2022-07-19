@@ -1,6 +1,6 @@
 <h1>Shopping Cart App</h1>
 
-<!-- ## [Live Demo](https://react-shopping-cart-beta.vercel.app/) -->
+ ## [Live Demo](https://shopping-cart-using-hooks-nu.vercel.app/)
 
 This is a simple shopping cart app.
 
