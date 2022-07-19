@@ -5,7 +5,7 @@
 This is a simple shopping cart app.
 
 # Getting Started with Create React App
-You will find all the information you will need to work on this project in the `code/shopping-cart/src` folder.
+You will find all the information you will need to work on this project in the `shopping-cart-using-hooks/src` folder.
 - `data.json` contains the collection of information about the producrts
 
 #### Features
